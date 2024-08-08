@@ -160,7 +160,7 @@ def main():
             
             elif pdf_path.lower() == "exit": 
                 #breaking the main while loop
-                print(f"Sayonara. See you soon {emoji.emojize(':wave:', language='alias')}")
+                print(f"Sayonara. See you soon {emoji.emojize(':wave:', language='alias')}\n")
                 break
 
             else:
